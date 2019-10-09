@@ -1,13 +1,12 @@
 ---
 layout: post
 title:      "Starting Different[0]"
-date:       2019-10-09 06:26:46 +0000
+date:       2019-10-09 02:26:47 -0400
 permalink:  starting_different_0
 ---
 
 
-*> You got a dream… You gotta protect it. People can’t do somethin’ themselves, they wanna tell you you can’t do it. If you want somethin’, go get it. Period. — Christopher Gardner
-> *
+> You got a dream… You gotta protect it. People can’t do somethin’ themselves, they wanna tell you you can’t do it. If you want somethin’, go get it. Period. — Christopher Gardner
 
   Taking the leap and starting Flatiron School is nowhere close to the most risky thing I’ve done. It’s that fact, that makes piling on a full-time bootcamp raise questions within myself and others.
 

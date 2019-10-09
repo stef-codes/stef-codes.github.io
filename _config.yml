@@ -1,11 +1,11 @@
 # Site settings
 author: Stefanie Davis
-title: 
+title: The Audacity to Dream
 header-img: img/home-bg.png
 email: davisstefanie2010@gmail.com
 copyright_name: Stefanie Davis
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Moving Forward
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: StefLikeCurry
 github_username:  stef-codes

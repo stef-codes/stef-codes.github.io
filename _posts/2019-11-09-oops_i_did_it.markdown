@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "OOPs! I Did It!*"
-date:       2019-11-09 15:38:49 +0000
+title:      "OOPs! I Did It!"
+date:       2019-11-09 10:38:50 -0500
 permalink:  oops_i_did_it
 ---
 
